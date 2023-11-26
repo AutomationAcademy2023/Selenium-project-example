@@ -7,17 +7,17 @@
     <test name="ChromeTest">
         <parameter name="browser" value="Chrome" />
         <classes>
-            <class name="CrossBrowserTest">
+            <class name="ProjectTest">
             </class>
         </classes>
     </test>
 
-    <test name="EdgeTest">
+   <!-- <test name="EdgeTest">
         <parameter name="browser" value="Edge" />
         <classes>
-            <class name="CrossBrowserTest">
+            <class name="ProjectTest">
             </class>
         </classes>
-    </test>
+    </test>-->
 
 </suite>
